@@ -55,6 +55,7 @@ The repository will cover topics such as:
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
