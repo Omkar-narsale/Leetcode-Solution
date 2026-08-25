@@ -126,4 +126,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
