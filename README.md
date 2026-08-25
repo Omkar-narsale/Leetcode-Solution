@@ -130,4 +130,5 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
+| [1174-immediate-food-delivery-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
