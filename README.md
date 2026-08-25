@@ -59,6 +59,7 @@ The repository will cover topics such as:
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ The repository will cover topics such as:
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ The repository will cover topics such as:
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +94,7 @@ The repository will cover topics such as:
 | [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +121,7 @@ The repository will cover topics such as:
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
