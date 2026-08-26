@@ -13,10 +13,7 @@ class Solution:
                 rank[sorted_score[i]] = "Bronze Medal"
             else:
                 rank[sorted_score[i]] = str(i + 1)
-
         ans = []
-
         for num in score:
             ans.append(rank[num])
-
         return ans
