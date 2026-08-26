@@ -131,6 +131,7 @@ The repository will cover topics such as:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0182-duplicate-emails/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1174-immediate-food-delivery-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
