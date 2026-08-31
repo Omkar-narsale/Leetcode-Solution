@@ -66,6 +66,7 @@ The repository will cover topics such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+| [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
@@ -114,6 +115,7 @@ The repository will cover topics such as:
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Divide and Conquer
@@ -125,6 +127,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
