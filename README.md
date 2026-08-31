@@ -65,6 +65,7 @@ The repository will cover topics such as:
 | [0414-third-maximum-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
+| [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
@@ -161,4 +162,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
