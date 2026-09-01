@@ -69,6 +69,7 @@ The repository will cover topics such as:
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
@@ -94,6 +95,7 @@ The repository will cover topics such as:
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -143,6 +145,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
