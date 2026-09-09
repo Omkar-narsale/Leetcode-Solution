@@ -76,6 +76,7 @@ The repository will cover topics such as:
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
@@ -91,6 +92,7 @@ The repository will cover topics such as:
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ The repository will cover topics such as:
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -220,4 +223,16 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
