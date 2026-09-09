@@ -83,6 +83,7 @@ The repository will cover topics such as:
 | [1089-duplicate-zeros](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
@@ -93,6 +94,7 @@ The repository will cover topics such as:
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +237,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
