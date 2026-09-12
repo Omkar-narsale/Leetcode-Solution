@@ -90,6 +90,7 @@ The repository will cover topics such as:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
@@ -141,6 +142,7 @@ The repository will cover topics such as:
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
