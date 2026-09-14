@@ -67,6 +67,7 @@ The repository will cover topics such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
@@ -137,6 +138,7 @@ The repository will cover topics such as:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -241,6 +243,7 @@ The repository will cover topics such as:
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
@@ -259,6 +262,7 @@ The repository will cover topics such as:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 ## Quicksort
