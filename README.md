@@ -49,6 +49,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
@@ -179,6 +180,7 @@ The repository will cover topics such as:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 ## Counting
@@ -207,6 +209,7 @@ The repository will cover topics such as:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
