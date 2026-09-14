@@ -100,6 +100,7 @@ The repository will cover topics such as:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
