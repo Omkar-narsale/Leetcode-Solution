@@ -55,6 +55,7 @@ The repository will cover topics such as:
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
@@ -119,6 +120,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -134,6 +136,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -254,6 +257,7 @@ The repository will cover topics such as:
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 ## Stack
@@ -273,6 +277,7 @@ The repository will cover topics such as:
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 ## Polygons
