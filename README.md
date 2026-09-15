@@ -94,6 +94,7 @@ The repository will cover topics such as:
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -184,6 +185,7 @@ The repository will cover topics such as:
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -198,6 +200,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -212,6 +215,7 @@ The repository will cover topics such as:
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
