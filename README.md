@@ -80,6 +80,7 @@ The repository will cover topics such as:
 | [0739-daily-temperatures](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0896-monotonic-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
@@ -121,6 +122,7 @@ The repository will cover topics such as:
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ The repository will cover topics such as:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -259,6 +262,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -311,4 +315,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
