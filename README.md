@@ -105,6 +105,7 @@ The repository will cover topics such as:
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -239,6 +240,7 @@ The repository will cover topics such as:
 | [0704-binary-search](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
