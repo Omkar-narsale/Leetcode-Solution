@@ -90,6 +90,7 @@ The repository will cover topics such as:
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1037-valid-boomerang](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
@@ -117,6 +118,7 @@ The repository will cover topics such as:
 | [0836-rectangle-overlap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1037-valid-boomerang](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Bit Manipulation
@@ -314,6 +316,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
+| [1037-valid-boomerang](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
