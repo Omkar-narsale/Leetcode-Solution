@@ -108,6 +108,7 @@ The repository will cover topics such as:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
@@ -173,6 +174,7 @@ The repository will cover topics such as:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
