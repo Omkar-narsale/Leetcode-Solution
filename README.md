@@ -223,6 +223,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -337,4 +338,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
