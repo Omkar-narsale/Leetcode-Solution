@@ -110,6 +110,7 @@ The repository will cover topics such as:
 | [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -230,6 +231,7 @@ The repository will cover topics such as:
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
