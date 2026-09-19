@@ -116,6 +116,7 @@ The repository will cover topics such as:
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -298,6 +299,7 @@ The repository will cover topics such as:
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
