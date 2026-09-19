@@ -54,6 +54,7 @@ The repository will cover topics such as:
 | [0015-3sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
@@ -196,6 +197,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -298,6 +300,7 @@ The repository will cover topics such as:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
