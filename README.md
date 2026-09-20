@@ -85,6 +85,7 @@ The repository will cover topics such as:
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
@@ -304,6 +305,7 @@ The repository will cover topics such as:
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Counting Sort
@@ -362,6 +364,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
