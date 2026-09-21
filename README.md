@@ -63,6 +63,7 @@ The repository will cover topics such as:
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
@@ -262,6 +263,7 @@ The repository will cover topics such as:
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
