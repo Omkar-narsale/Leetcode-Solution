@@ -133,6 +133,7 @@ The repository will cover topics such as:
 | [0009-palindrome-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -265,6 +266,7 @@ The repository will cover topics such as:
 | [0004-median-of-two-sorted-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -387,4 +389,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
