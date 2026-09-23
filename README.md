@@ -129,6 +129,7 @@ The repository will cover topics such as:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ The repository will cover topics such as:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ The repository will cover topics such as:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
