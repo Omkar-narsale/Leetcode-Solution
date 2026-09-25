@@ -161,6 +161,7 @@ The repository will cover topics such as:
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -196,6 +197,7 @@ The repository will cover topics such as:
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
@@ -230,6 +232,7 @@ The repository will cover topics such as:
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -271,6 +274,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
