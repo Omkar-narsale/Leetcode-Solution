@@ -82,6 +82,7 @@ The repository will cover topics such as:
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0575-distribute-candies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
@@ -241,6 +242,7 @@ The repository will cover topics such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
