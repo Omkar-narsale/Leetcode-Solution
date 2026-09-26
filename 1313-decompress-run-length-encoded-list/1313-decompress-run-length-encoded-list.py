@@ -6,7 +6,6 @@ class Solution(object):
             frequency = nums[i]
             value = nums[i + 1]
 
-            for _ in range(frequency):
-                result.append(value)
+            result.extend([value] * frequency)
 
         return result
