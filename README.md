@@ -344,6 +344,7 @@ The repository will cover topics such as:
 | [0185-department-top-three-salaries](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1174-immediate-food-delivery-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1321-restaurant-growth](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1321-restaurant-growth/) | Medium |
+| [3421-find-students-who-improved](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3421-find-students-who-improved/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
