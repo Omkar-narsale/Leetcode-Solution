@@ -133,6 +133,7 @@ The repository will cover topics such as:
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -233,6 +234,7 @@ The repository will cover topics such as:
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -265,6 +267,7 @@ The repository will cover topics such as:
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
