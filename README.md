@@ -120,6 +120,7 @@ The repository will cover topics such as:
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -227,6 +228,7 @@ The repository will cover topics such as:
 | [1331-rank-transform-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -265,6 +267,7 @@ The repository will cover topics such as:
 | [1207-unique-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -388,6 +391,7 @@ The repository will cover topics such as:
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
