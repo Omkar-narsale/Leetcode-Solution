@@ -1,11 +1,8 @@
 class Solution(object):
     def shuffle(self, nums, n):
-        mid=len(nums)//2
-        left=nums[:mid]
-        right=nums[mid:]
         result=[]
-        for i in range(mid):
-            result.append(left[i])
-            result.append(right[i])
+        for i in range(n):
+            result.append(nums[i])
+            result.append(nums[i+n])
         return result
         
