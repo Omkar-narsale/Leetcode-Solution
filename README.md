@@ -133,6 +133,7 @@ The repository will cover topics such as:
 | [1470-shuffle-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -457,6 +458,7 @@ The repository will cover topics such as:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
