@@ -55,6 +55,7 @@ The repository will cover topics such as:
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0046-permutations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
@@ -523,4 +524,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
