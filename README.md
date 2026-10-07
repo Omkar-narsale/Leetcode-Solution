@@ -82,6 +82,7 @@ The repository will cover topics such as:
 | [0414-third-maximum-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
@@ -209,6 +210,7 @@ The repository will cover topics such as:
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -238,6 +240,7 @@ The repository will cover topics such as:
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
@@ -461,6 +464,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
@@ -470,6 +474,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 ## Polygons
