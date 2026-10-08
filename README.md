@@ -139,6 +139,7 @@ The repository will cover topics such as:
 | [1470-shuffle-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -186,6 +187,7 @@ The repository will cover topics such as:
 | [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -306,6 +308,7 @@ The repository will cover topics such as:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -333,6 +336,7 @@ The repository will cover topics such as:
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
