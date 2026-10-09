@@ -108,6 +108,7 @@ The repository will cover topics such as:
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
@@ -256,6 +257,7 @@ The repository will cover topics such as:
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
@@ -301,6 +303,7 @@ The repository will cover topics such as:
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -476,6 +479,7 @@ The repository will cover topics such as:
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
