@@ -9,4 +9,4 @@ class Solution(object):
                 return False
             count[num] -= 1
             count[2 * num] -= 1
-        return True
+        return True 
