@@ -68,6 +68,7 @@ The repository will cover topics such as:
 | [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
@@ -237,6 +238,7 @@ The repository will cover topics such as:
 | [0049-group-anagrams](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
@@ -524,6 +526,7 @@ The repository will cover topics such as:
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -540,10 +543,12 @@ The repository will cover topics such as:
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
