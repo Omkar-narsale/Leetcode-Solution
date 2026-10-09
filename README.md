@@ -65,6 +65,7 @@ The repository will cover topics such as:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -195,6 +196,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
