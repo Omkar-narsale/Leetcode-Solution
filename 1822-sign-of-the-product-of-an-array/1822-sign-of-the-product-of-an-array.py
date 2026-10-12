@@ -1,13 +1,14 @@
 class Solution(object):
     def arraySign(self, nums):
-        prod = 1
+        neg = 0
 
         for num in nums:
-            prod *= num
+            if num == 0:
+                return 0
+            elif num < 0:
+                neg += 1
 
-        if prod > 0:
+        if neg % 2 == 0:
             return 1
-        elif prod < 0:
-            return -1
         else:
-            return 0
+            return -1
