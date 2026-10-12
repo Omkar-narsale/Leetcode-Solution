@@ -147,6 +147,7 @@ The repository will cover topics such as:
 | [1470-shuffle-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
@@ -283,6 +284,7 @@ The repository will cover topics such as:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -507,6 +509,7 @@ The repository will cover topics such as:
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
