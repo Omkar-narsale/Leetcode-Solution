@@ -182,6 +182,7 @@ The repository will cover topics such as:
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ The repository will cover topics such as:
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +306,7 @@ The repository will cover topics such as:
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +535,7 @@ The repository will cover topics such as:
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
