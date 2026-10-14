@@ -164,6 +164,7 @@ The repository will cover topics such as:
 | [1672-richest-customer-wealth](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
