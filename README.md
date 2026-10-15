@@ -78,6 +78,7 @@ The repository will cover topics such as:
 | [0215-kth-largest-element-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -216,6 +217,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
