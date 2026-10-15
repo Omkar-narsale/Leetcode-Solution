@@ -248,6 +248,7 @@ The repository will cover topics such as:
 | [1089-duplicate-zeros](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -415,6 +416,7 @@ The repository will cover topics such as:
 | [1528-shuffle-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
