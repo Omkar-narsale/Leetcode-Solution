@@ -239,6 +239,7 @@ The repository will cover topics such as:
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
@@ -408,6 +409,7 @@ The repository will cover topics such as:
 | [0049-group-anagrams](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
