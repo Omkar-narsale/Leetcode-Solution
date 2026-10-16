@@ -90,6 +90,7 @@ The repository will cover topics such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0475-heaters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0475-heaters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
@@ -239,6 +240,7 @@ The repository will cover topics such as:
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0475-heaters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -276,6 +278,7 @@ The repository will cover topics such as:
 | [0451-sort-characters-by-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0475-heaters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
@@ -442,6 +445,7 @@ The repository will cover topics such as:
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0475-heaters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0475-heaters/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
