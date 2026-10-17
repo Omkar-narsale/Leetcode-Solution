@@ -200,6 +200,7 @@ The repository will cover topics such as:
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
@@ -227,6 +228,7 @@ The repository will cover topics such as:
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -588,6 +590,7 @@ The repository will cover topics such as:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
