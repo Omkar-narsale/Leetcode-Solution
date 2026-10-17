@@ -197,6 +197,7 @@ The repository will cover topics such as:
 | [0009-palindrome-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -222,6 +223,7 @@ The repository will cover topics such as:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
@@ -415,6 +417,7 @@ The repository will cover topics such as:
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
@@ -593,6 +596,7 @@ The repository will cover topics such as:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
