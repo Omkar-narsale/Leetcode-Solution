@@ -200,6 +200,7 @@ The repository will cover topics such as:
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -597,6 +598,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -643,6 +645,7 @@ The repository will cover topics such as:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Backtracking
