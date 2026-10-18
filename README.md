@@ -119,6 +119,7 @@ The repository will cover topics such as:
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -260,6 +261,7 @@ The repository will cover topics such as:
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -304,6 +306,7 @@ The repository will cover topics such as:
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -360,6 +363,7 @@ The repository will cover topics such as:
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
@@ -403,6 +407,7 @@ The repository will cover topics such as:
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
