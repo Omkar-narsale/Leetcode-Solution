@@ -206,6 +206,7 @@ The repository will cover topics such as:
 | [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
@@ -236,6 +237,7 @@ The repository will cover topics such as:
 | [0260-single-number-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
@@ -605,6 +607,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
