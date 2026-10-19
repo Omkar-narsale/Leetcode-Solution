@@ -261,6 +261,7 @@ The repository will cover topics such as:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0475-heaters/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -446,6 +447,7 @@ The repository will cover topics such as:
 | [0412-fizz-buzz](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
