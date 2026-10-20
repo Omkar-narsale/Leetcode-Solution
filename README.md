@@ -172,6 +172,7 @@ The repository will cover topics such as:
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
