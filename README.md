@@ -185,6 +185,7 @@ The repository will cover topics such as:
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -621,6 +622,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
