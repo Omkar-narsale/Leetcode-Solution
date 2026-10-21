@@ -179,6 +179,7 @@ The repository will cover topics such as:
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -546,6 +547,7 @@ The repository will cover topics such as:
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
