@@ -187,6 +187,7 @@ The repository will cover topics such as:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -287,6 +288,7 @@ The repository will cover topics such as:
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -488,6 +490,7 @@ The repository will cover topics such as:
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
