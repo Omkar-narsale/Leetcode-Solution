@@ -192,6 +192,7 @@ The repository will cover topics such as:
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -660,6 +661,7 @@ The repository will cover topics such as:
 | [1929-concatenation-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
