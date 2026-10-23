@@ -394,6 +394,7 @@ The repository will cover topics such as:
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -482,6 +483,7 @@ The repository will cover topics such as:
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
