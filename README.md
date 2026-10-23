@@ -110,6 +110,7 @@ The repository will cover topics such as:
 | [0739-daily-temperatures](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
@@ -328,6 +329,7 @@ The repository will cover topics such as:
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
@@ -392,6 +394,7 @@ The repository will cover topics such as:
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -479,6 +482,7 @@ The repository will cover topics such as:
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -499,6 +503,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +528,7 @@ The repository will cover topics such as:
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -567,6 +573,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
