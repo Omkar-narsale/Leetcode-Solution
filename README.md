@@ -205,6 +205,7 @@ The repository will cover topics such as:
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -425,6 +426,7 @@ The repository will cover topics such as:
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Divide and Conquer
