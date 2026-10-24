@@ -247,6 +247,7 @@ The repository will cover topics such as:
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -506,6 +507,7 @@ The repository will cover topics such as:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
