@@ -1,13 +1,11 @@
 class Solution:
     def minimumAverage(self, nums: list[int]) -> float:
         nums.sort()
-        averages = []
-
+        ans=[]
         while nums:
-            smallest = nums.pop(0)
-            largest = nums.pop()
-
-            avg = (smallest + largest) / 2
-            averages.append(avg)
-
-        return min(averages)
+            smallest=nums.pop(0)
+            largest=nums.pop()
+            avg=(smallest+largest)/2
+            ans.append(avg)
+        return min(ans)
+        
