@@ -96,6 +96,7 @@ The repository will cover topics such as:
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -401,6 +402,7 @@ The repository will cover topics such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -601,6 +603,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
