@@ -68,6 +68,7 @@ The repository will cover topics such as:
 | [0136-single-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -539,6 +540,7 @@ The repository will cover topics such as:
 | [0069-sqrtx](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
