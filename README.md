@@ -99,6 +99,7 @@ The repository will cover topics such as:
 | [0540-single-element-in-a-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0565-array-nesting/) | Medium |
 | [0575-distribute-candies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -781,4 +782,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0565-array-nesting](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0565-array-nesting/) | Medium |
 <!---LeetCode Topics End-->
