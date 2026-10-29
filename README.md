@@ -194,6 +194,7 @@ The repository will cover topics such as:
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -525,6 +526,7 @@ The repository will cover topics such as:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2418-sort-the-people/) | Easy |
 ## Trie
