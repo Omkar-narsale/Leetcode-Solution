@@ -198,6 +198,7 @@ The repository will cover topics such as:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2404-most-frequent-even-element/) | Easy |
