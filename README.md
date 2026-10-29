@@ -178,6 +178,7 @@ The repository will cover topics such as:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1816-truncate-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -519,6 +520,7 @@ The repository will cover topics such as:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1816-truncate-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1816-truncate-sentence/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
