@@ -193,6 +193,7 @@ The repository will cover topics such as:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
