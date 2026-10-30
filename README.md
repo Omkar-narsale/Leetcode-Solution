@@ -193,6 +193,7 @@ The repository will cover topics such as:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -440,6 +441,7 @@ The repository will cover topics such as:
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -485,6 +487,7 @@ The repository will cover topics such as:
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -535,6 +538,7 @@ The repository will cover topics such as:
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
