@@ -249,6 +249,7 @@ The repository will cover topics such as:
 | [0412-fizz-buzz](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -623,6 +624,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -713,6 +715,7 @@ The repository will cover topics such as:
 | [0231-power-of-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -810,4 +813,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0565-array-nesting](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0565-array-nesting/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
