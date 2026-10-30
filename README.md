@@ -613,6 +613,7 @@ The repository will cover topics such as:
 | [1321-restaurant-growth](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1321-restaurant-growth/) | Medium |
 | [3421-find-students-who-improved](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3475-dna-pattern-recognition/) | Medium |
+| [3497-analyze-subscription-conversion](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
