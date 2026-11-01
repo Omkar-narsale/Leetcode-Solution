@@ -421,6 +421,7 @@ The repository will cover topics such as:
 | [0229-majority-element-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -536,6 +537,7 @@ The repository will cover topics such as:
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
