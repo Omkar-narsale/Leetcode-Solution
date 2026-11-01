@@ -181,6 +181,7 @@ The repository will cover topics such as:
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -269,6 +270,7 @@ The repository will cover topics such as:
 | [1360-number-of-days-between-two-dates](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -456,6 +458,7 @@ The repository will cover topics such as:
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -507,6 +510,7 @@ The repository will cover topics such as:
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
