@@ -459,6 +459,7 @@ The repository will cover topics such as:
 | [1207-unique-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -514,6 +515,7 @@ The repository will cover topics such as:
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -567,6 +569,7 @@ The repository will cover topics such as:
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1528-shuffle-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
