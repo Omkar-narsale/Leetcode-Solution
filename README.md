@@ -221,6 +221,7 @@ The repository will cover topics such as:
 | [2733-neither-minimum-nor-maximum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -589,6 +590,7 @@ The repository will cover topics such as:
 | [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2418-sort-the-people/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
