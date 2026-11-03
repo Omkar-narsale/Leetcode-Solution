@@ -231,6 +231,7 @@ The repository will cover topics such as:
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -283,6 +284,7 @@ The repository will cover topics such as:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
