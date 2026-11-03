@@ -645,6 +645,7 @@ The repository will cover topics such as:
 | [0185-department-top-three-salaries](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1174-immediate-food-delivery-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1321-restaurant-growth](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1321-restaurant-growth/) | Medium |
+| [1341-movie-rating](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1341-movie-rating/) | Medium |
 | [3421-find-students-who-improved](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3497-analyze-subscription-conversion/) | Medium |
