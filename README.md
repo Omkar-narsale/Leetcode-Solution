@@ -405,6 +405,7 @@ The repository will cover topics such as:
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -582,6 +583,7 @@ The repository will cover topics such as:
 | [1768-merge-strings-alternately](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1816-truncate-sentence/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -709,6 +711,7 @@ The repository will cover topics such as:
 | [0075-sort-colors](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
