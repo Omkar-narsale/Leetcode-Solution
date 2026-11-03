@@ -223,6 +223,7 @@ The repository will cover topics such as:
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -483,6 +484,7 @@ The repository will cover topics such as:
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
