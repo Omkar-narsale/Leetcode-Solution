@@ -233,6 +233,7 @@ The repository will cover topics such as:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -311,6 +312,7 @@ The repository will cover topics such as:
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -874,4 +876,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
