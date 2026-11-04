@@ -237,6 +237,7 @@ The repository will cover topics such as:
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -421,6 +422,7 @@ The repository will cover topics such as:
 | [2733-neither-minimum-nor-maximum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4031-find-all-numbers-disappeared-in-an-array-ii/) | Medium |
