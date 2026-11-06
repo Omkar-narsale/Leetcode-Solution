@@ -229,6 +229,7 @@ The repository will cover topics such as:
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [3151-special-array-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3151-special-array-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
