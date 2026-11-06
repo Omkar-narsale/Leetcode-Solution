@@ -240,6 +240,7 @@ The repository will cover topics such as:
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -505,6 +506,7 @@ The repository will cover topics such as:
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -553,6 +555,7 @@ The repository will cover topics such as:
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
