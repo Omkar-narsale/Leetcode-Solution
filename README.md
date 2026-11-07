@@ -220,6 +220,7 @@ The repository will cover topics such as:
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -503,6 +504,7 @@ The repository will cover topics such as:
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
