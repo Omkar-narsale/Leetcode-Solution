@@ -217,6 +217,7 @@ The repository will cover topics such as:
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -565,6 +566,7 @@ The repository will cover topics such as:
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -628,6 +630,7 @@ The repository will cover topics such as:
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2418-sort-the-people/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
