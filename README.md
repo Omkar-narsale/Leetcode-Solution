@@ -511,6 +511,7 @@ The repository will cover topics such as:
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
@@ -565,6 +566,7 @@ The repository will cover topics such as:
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
@@ -626,6 +628,7 @@ The repository will cover topics such as:
 | [2418-sort-the-people](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2418-sort-the-people/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
