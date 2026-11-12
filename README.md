@@ -236,6 +236,7 @@ The repository will cover topics such as:
 | [3151-special-array-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -512,6 +513,7 @@ The repository will cover topics such as:
 | [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3046-split-the-array/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
