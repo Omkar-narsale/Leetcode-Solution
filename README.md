@@ -205,6 +205,7 @@ The repository will cover topics such as:
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -300,6 +301,7 @@ The repository will cover topics such as:
 | [1822-sign-of-the-product-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -504,6 +506,7 @@ The repository will cover topics such as:
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -569,6 +572,7 @@ The repository will cover topics such as:
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -882,6 +886,7 @@ The repository will cover topics such as:
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -901,10 +906,12 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
