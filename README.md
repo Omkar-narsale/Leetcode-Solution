@@ -241,6 +241,7 @@ The repository will cover topics such as:
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3668-restore-finishing-order/) | Easy |
@@ -304,6 +305,7 @@ The repository will cover topics such as:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
