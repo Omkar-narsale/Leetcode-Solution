@@ -252,6 +252,7 @@ The repository will cover topics such as:
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -529,6 +530,7 @@ The repository will cover topics such as:
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Divide and Conquer
