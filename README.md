@@ -256,6 +256,7 @@ The repository will cover topics such as:
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
+| [3912-valid-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
