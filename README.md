@@ -165,6 +165,7 @@ The repository will cover topics such as:
 | [1470-shuffle-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -496,6 +497,7 @@ The repository will cover topics such as:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -565,6 +567,7 @@ The repository will cover topics such as:
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
