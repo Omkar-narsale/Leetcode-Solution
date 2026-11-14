@@ -297,6 +297,7 @@ The repository will cover topics such as:
 | [1037-valid-boomerang](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1037-valid-boomerang/) | Easy |
 | [1185-day-of-the-week](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1185-day-of-the-week/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
