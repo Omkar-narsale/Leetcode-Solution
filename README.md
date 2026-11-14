@@ -238,6 +238,7 @@ The repository will cover topics such as:
 | [3151-special-array-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -702,6 +703,7 @@ The repository will cover topics such as:
 | [0567-permutation-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,6 +745,7 @@ The repository will cover topics such as:
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
