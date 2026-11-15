@@ -257,6 +257,7 @@ The repository will cover topics such as:
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
@@ -542,6 +543,7 @@ The repository will cover topics such as:
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -557,6 +559,7 @@ The repository will cover topics such as:
 | [0347-top-k-frequent-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -599,6 +602,7 @@ The repository will cover topics such as:
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -756,6 +760,7 @@ The repository will cover topics such as:
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -883,6 +888,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -951,4 +957,8 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
