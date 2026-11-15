@@ -262,6 +262,7 @@ The repository will cover topics such as:
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3866-first-unique-even-element/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3912-valid-elements-in-an-array/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3978-unique-middle-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3978-unique-middle-element/) | Easy |
@@ -865,6 +866,7 @@ The repository will cover topics such as:
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
