@@ -620,6 +620,7 @@ The repository will cover topics such as:
 | [0020-valid-parentheses](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0179-largest-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
