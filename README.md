@@ -211,6 +211,7 @@ The repository will cover topics such as:
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -529,6 +530,7 @@ The repository will cover topics such as:
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -601,6 +603,7 @@ The repository will cover topics such as:
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2404-most-frequent-even-element/) | Easy |
