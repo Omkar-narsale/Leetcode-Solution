@@ -307,6 +307,7 @@ The repository will cover topics such as:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1399-count-largest-group](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1399-count-largest-group/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -512,6 +513,7 @@ The repository will cover topics such as:
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1399-count-largest-group/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -587,6 +589,7 @@ The repository will cover topics such as:
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1399-count-largest-group/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
