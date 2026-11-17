@@ -502,6 +502,7 @@ The repository will cover topics such as:
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1122-relative-sort-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -580,6 +581,7 @@ The repository will cover topics such as:
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -647,6 +649,7 @@ The repository will cover topics such as:
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -929,6 +932,7 @@ The repository will cover topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1079-letter-tile-possibilities/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
