@@ -120,6 +120,7 @@ The repository will cover topics such as:
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0867-transpose-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -420,6 +421,7 @@ The repository will cover topics such as:
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
@@ -499,6 +501,7 @@ The repository will cover topics such as:
 | [0771-jewels-and-stones](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -652,6 +655,7 @@ The repository will cover topics such as:
 | [0796-rotate-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1002-find-common-characters/) | Easy |
