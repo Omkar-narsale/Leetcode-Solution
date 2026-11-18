@@ -530,6 +530,7 @@ The repository will cover topics such as:
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -603,6 +604,7 @@ The repository will cover topics such as:
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -675,6 +677,7 @@ The repository will cover topics such as:
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
