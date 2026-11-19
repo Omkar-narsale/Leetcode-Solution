@@ -223,6 +223,7 @@ The repository will cover topics such as:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -458,6 +459,7 @@ The repository will cover topics such as:
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2418-sort-the-people](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -838,6 +840,7 @@ The repository will cover topics such as:
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
