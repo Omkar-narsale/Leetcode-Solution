@@ -110,6 +110,7 @@ The repository will cover topics such as:
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
@@ -499,6 +500,7 @@ The repository will cover topics such as:
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -761,6 +763,7 @@ The repository will cover topics such as:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0506-relative-ranks/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
@@ -832,6 +835,7 @@ The repository will cover topics such as:
 | [0455-assign-cookies](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0954-array-of-doubled-pairs/) | Medium |
