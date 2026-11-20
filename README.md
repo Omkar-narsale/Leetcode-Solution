@@ -300,6 +300,7 @@ The repository will cover topics such as:
 | [0628-maximum-product-of-three-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0908-smallest-range-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0908-smallest-range-i/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -424,6 +425,7 @@ The repository will cover topics such as:
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0869-reordered-power-of-2](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0912-sort-an-array/) | Medium |
@@ -506,6 +508,7 @@ The repository will cover topics such as:
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0869-reordered-power-of-2](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -590,6 +593,7 @@ The repository will cover topics such as:
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -877,6 +881,7 @@ The repository will cover topics such as:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0869-reordered-power-of-2](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1534-count-good-triplets](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1534-count-good-triplets/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
