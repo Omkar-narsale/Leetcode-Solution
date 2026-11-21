@@ -113,6 +113,7 @@ The repository will cover topics such as:
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -505,6 +506,7 @@ The repository will cover topics such as:
 | [0645-set-mismatch](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
