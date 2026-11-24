@@ -250,6 +250,7 @@ The repository will cover topics such as:
 | [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -328,6 +329,7 @@ The repository will cover topics such as:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -752,6 +754,7 @@ The repository will cover topics such as:
 | [0594-longest-harmonious-subsequence](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -890,6 +893,7 @@ The repository will cover topics such as:
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -956,6 +960,7 @@ The repository will cover topics such as:
 | [0258-add-digits](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
