@@ -330,6 +330,7 @@ The repository will cover topics such as:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3360-stone-removal-game](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -912,6 +913,7 @@ The repository will cover topics such as:
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Omkar-narsale/Leetcode-Solution/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
